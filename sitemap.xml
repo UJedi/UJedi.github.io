@@ -3,28 +3,89 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://UJedi.github.io/about/</loc>
-    <lastmod>2019-04-27T10:29:18+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://UJedi.github.io/</loc>
-    <lastmod>2019-04-27T10:29:18+08:00</lastmod>
+    <loc>https://UJedi.github.io/blog/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://UJedi.github.io/categories/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/series/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B0/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://UJedi.github.io/series/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://UJedi.github.io/tags/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/blog/2019-04/%E8%BD%ACmac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B01-%E5%9F%BA%E6%9C%AC%E8%AE%BE%E7%BD%AE%E4%B8%8E%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/tags/mac/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/tags/%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/about/about/</loc>
+    <lastmod>2019-04-27T10:29:18+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/about/</loc>
+    <lastmod>2019-04-27T10:29:18+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/moment/moment/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/moment/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/categories/test/</loc>
+    <lastmod>2015-08-19T20:29:37-07:00</lastmod>
     <priority>0</priority>
   </url>
   
