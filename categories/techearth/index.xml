@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech·Earth on Orianna</title>
+    <link>https://UJedi.github.io/categories/techearth/</link>
+    <description>Recent content in Tech·Earth on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Wed, 08 May 2019 09:08:27 +0800</lastBuildDate>
+    
+	<atom:link href="https://UJedi.github.io/categories/techearth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux基础操作</title>
+      <link>https://UJedi.github.io/blog/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</link>
+      <pubDate>Wed, 08 May 2019 09:08:27 +0800</pubDate>
+      
+      <guid>https://UJedi.github.io/blog/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</guid>
+      <description>1.常用命令 类型 相关命令 帮助 &amp;ndash;help, man, which, clear, &amp;gt; , mtools 查看 echo, cat, more, find, grep, | 目录 cd , ls, pwd 安装、登陆 login, shutdown, halt, reboot, install, mount, umount, chsh, exit, last 文件操作 touch, mkdir, rm, rmdir, mv, cp, ln, file, dd, diff 解、压缩 tar, gzip, bzip2, zip, unzip, gunzip, unarj, uuencode, uudecode 系统管理 whoami, df, top, free, quota, at, lp, adduser, groupadd, kill, crontab 系统安全 passwd, su, umask, chgrp, chmod, chomd, chown, chattr, sudo ps, who 网络操作 ifconfig, ip, ping, netstat, telnet, ftp, route, rlogin, rcp, finger, rcp, finger, mail, nslookup</description>
+    </item>
+    
+  </channel>
+</rss>

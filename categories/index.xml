@@ -1,31 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jedi</title>
+    <title>Categories on Regina</title>
     <link>https://UJedi.github.io/categories/</link>
-    <description>Recent content in Categories on Jedi</description>
+    <description>Recent content in Categories on Regina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 27 Apr 2019 23:01:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 09:08:27 +0800</lastBuildDate>
     
 	<atom:link href="https://UJedi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>杂七杂八</title>
-      <link>https://UJedi.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</link>
-      <pubDate>Sat, 27 Apr 2019 23:01:10 +0800</pubDate>
+      <title>Tech-Earth</title>
+      <link>https://UJedi.github.io/categories/tech-earth/</link>
+      <pubDate>Wed, 08 May 2019 09:08:27 +0800</pubDate>
       
-      <guid>https://UJedi.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://UJedi.github.io/categories/test/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>https://UJedi.github.io/categories/test/</guid>
+      <guid>https://UJedi.github.io/categories/tech-earth/</guid>
       <description></description>
     </item>
     

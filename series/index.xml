@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Jedi</title>
+    <title>Series on Regina</title>
     <link>https://UJedi.github.io/series/</link>
-    <description>Recent content in Series on Jedi</description>
+    <description>Recent content in Series on Regina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
-    <lastBuildDate>Sat, 27 Apr 2019 23:01:10 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 09:08:27 +0800</lastBuildDate>
     
 	<atom:link href="https://UJedi.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mac小白探索记</title>
-      <link>https://UJedi.github.io/series/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B0/</link>
-      <pubDate>Sat, 27 Apr 2019 23:01:10 +0800</pubDate>
+      <title>linux</title>
+      <link>https://UJedi.github.io/series/linux/</link>
+      <pubDate>Wed, 08 May 2019 09:08:27 +0800</pubDate>
       
-      <guid>https://UJedi.github.io/series/mac%E5%B0%8F%E7%99%BD%E6%8E%A2%E7%B4%A2%E8%AE%B0/</guid>
+      <guid>https://UJedi.github.io/series/linux/</guid>
       <description></description>
     </item>
     
