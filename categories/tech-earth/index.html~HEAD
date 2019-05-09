@@ -1,84 +1,80 @@
 <!DOCTYPE html>
 <html lang="zn-Hans">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1" />
-    <meta name="author" content="Regina">
-    <meta name="description" content="[Be myself. Love the wonderful world. Do the right things and be a better man.]">
-
-    <meta property="og:title" content="Moment" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1" />
+  <meta name="author" content="Regina">
+  <meta name="description" content="[Be myself. Love the wonderful world. Do the right things and be a better man.]">
+  
+  <meta property="og:title" content="Tech-Earth" />
 <meta property="og:description" content="[Be myself. Love the wonderful world. Do the right things and be a better man.]" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://UJedi.github.io/moment/" />
+<meta property="og:url" content="https://UJedi.github.io/categories/tech-earth/" />
 
-<meta property="og:updated_time" content="2019-05-09T00:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2019-05-08T09:08:27&#43;08:00"/>
 
 
-    <title>
-        
-         Moment | Regina 
-        
-    </title>
+  <title>
+  
+       Tech-Earth | Regina 
+  
+  </title>
 
-    <link rel="canonical" href="https://UJedi.github.io/moment/">
+  <link rel="canonical" href="https://UJedi.github.io/categories/tech-earth/">
 
+  
+  
+
+  
+  <link href="https://UJedi.github.io/css/vendors-extensions/fontawesome/all.min.css" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:300,400,500,600">
+  <link href="https://UJedi.github.io/css/font.css" rel="stylesheet"> 
     
-    
-
-    
-    <link href="https://UJedi.github.io/css/vendors-extensions/fontawesome/all.min.css" rel="stylesheet">
-
-    
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:300,400,500,600">
-    <link href="https://UJedi.github.io/css/font.css" rel="stylesheet">
-
-    
-    <link href="https://UJedi.github.io/css/vendors/bootstrap4/bootstrap.min.css" rel="stylesheet">
-    <link href="https://UJedi.github.io/css/vendors-extensions/mdb/mdb.min.css" rel="stylesheet">
-    <link href="https://UJedi.github.io/css/vendors/mdb/style.min.css" rel="stylesheet">
-    <link href="https://UJedi.github.io/css/main.css" rel="stylesheet">
+  
+  <link href="https://UJedi.github.io/css/vendors/bootstrap4/bootstrap.min.css" rel="stylesheet">
+  <link href="https://UJedi.github.io/css/vendors-extensions/mdb/mdb.min.css" rel="stylesheet"> 
+  <link href="https://UJedi.github.io/css/vendors/mdb/style.min.css" rel="stylesheet"> 
+  <link href="https://UJedi.github.io/css/main.css" rel="stylesheet">
 
 
-    
-    <link rel="shortcut icon"
-          
-          href="https://UJedi.github.io/img/zou.png"
-          
-    >
+  
+  <link rel="shortcut icon"
+  
+      href="https://UJedi.github.io/img/zou.png"
+  
+  >
 
 
-    
-    
-    <link href="https://UJedi.github.io/moment/index.xml" rel="alternate" type="application/rss+xml" title="Regina" />
-    
+  
+  
+  <link href="https://UJedi.github.io/categories/tech-earth/index.xml" rel="alternate" type="application/rss+xml" title="Regina" />
+  
 
-    <style type="text/css">
-        @media (min-width: 800px) and (max-width: 850px) {
-            .navbar:not(.top-nav-collapse) {
-                background: #1C2331!important;
-            }
-        }
-    </style>
+  <style type="text/css">
+      @media (min-width: 800px) and (max-width: 850px) {
+              .navbar:not(.top-nav-collapse) {
+                  background: #1C2331!important;
+              }
+          }
+  </style>
 
 
-    
+  
     
     <link rel="stylesheet" href="https://UJedi.github.io/js/vendors/katex/katex.min.css">
-    
-    
+  
+  
 
-    
+  
     
     <link rel="stylesheet" href="https://UJedi.github.io/css/vendors/highlight/github-gist.css">
-    
+  
 
-    
-    
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    
 </head>
 
   <body class="bg-light" data-spy="scroll" data-target="#page-scrollspy" data-offset="90">
@@ -117,7 +113,7 @@
           </li>
              
             <li class="nav-item ">
-              <a class="nav-link" href="https://UJedi.github.io/archive/" >Archive  </a>
+              <a class="nav-link" href="https://UJedi.github.io/blog/" >Blog  </a>
             </li>
           
              
@@ -246,11 +242,11 @@
     
         
             
-                <a href="mailto:you@gmail.com"><i class="far fa-envelope-open pr-1" aria-hidden="true"></i></a>
+                <a href="mailto:you@email.com"><i class="far fa-envelope-open pr-1" aria-hidden="true"></i></a>
             
     
             
-                <a href="https://UJedi.github.io/moment/"><i class="fas fa-rss pr-1" aria-hidden="true"></i></a>
+                <a href="https://UJedi.github.io/categories/tech-earth/index.xml"><i class="fas fa-rss pr-1" aria-hidden="true"></i></a>
             
 
             
@@ -269,15 +265,14 @@
     
 
     
-  <main class="post-main-wrapper px-5">
+<main class="post-main-wrapper px-5">
+  
+  <div class="row">
     
-    <div class="row">
-
+    <div class="col-md-3">
       
       
-        
-        <div class="col-md-3">
-          
+      
 
   
 
@@ -303,8 +298,26 @@
           
             
             <li class="py-1">
+              <a href="https://UJedi.github.io/categories/tech-earth">
+                <span>Tech-Earth (1)</span>
+              </a>
+            </li>           
+          
+            
+              <li class="middot"></li>
+            
+            <li class="py-1">
               <a href="https://UJedi.github.io/categories/test">
                 <span>Test (1)</span>
+              </a>
+            </li>           
+          
+            
+              <li class="middot"></li>
+            
+            <li class="py-1">
+              <a href="https://UJedi.github.io/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB">
+                <span>杂七杂八 (1)</span>
               </a>
             </li>           
           
@@ -315,111 +328,129 @@
     
   
 
-    
-          
 
-
-
-
-
-          
-
-
-
-
-
-
-  
-        </div>
-        
-
-        
-        
-        <div class="col-md-9 mt-3">  
       
-          <ul>
-            <div class="div-x">
-              <div class='post-heading'>
+      
+
   
-      Moment
+
+
+
+
+
+  <hr>
+  
+    <div class="post-meta">
+      <div class="mb-2">
+        <a href="https://UJedi.github.io/tags/">
+          <span class="font-weight-bold text-uppercase post-meta">
+            <i class="fas fa-tags pr-1" aria-hidden="true"></i> 
+            Featured Tags
+          </span>
+        </a>
+      </div>
+
+      <div class="li-x post-meta tags-md" style="margin-left: -8px;">
+        
+        
+        
+            <li><a href="https://UJedi.github.io/tags/linux" role="button"><span>linux (1)</span></a></li>
+          
+        
+      </div>
+    </div>
+
+    
+  
+
+
+      
+  
+
+
+
+
+
+
+
+  <hr>
+  
+    <div class="post-meta">
+      <div class="mb-2">
+        <a href="https://UJedi.github.io/series/">
+          <span class="font-weight-bold text-uppercase post-meta">
+            <i class="fas fa-bookmark pr-1" aria-hidden="true"></i> 
+            Recommend Series
+          </span>
+        </a>
+      </div>
+     
+      <div class="post-meta" >
+        
+          
+          
+            <li class="py-1"><a href="https://UJedi.github.io/series/linux"><span>Linux (1)</span></a></li>
+          
+        
+      </div>
+    
+      
+    </div>
+  
+
+  
+
+    </div>
+    
+
+    
+    
+    <div class="col-md-9 mt-3">
+      <ul>
+        <div class="div-x">
+            <div class='post-heading'>
+  
+      Tech-Earth
   
 </div>
 
-              
-              
-                <div class="px-2 middot"></div>
-                <div>
-                  One post
-                </div>
-              
-            </div>
-
             
-              <div class="post-content markdown">
-                <p>This page is a collection of life, which include book, movie, comic, language,  travel, etc.</p>
-
+            
+              <div class="px-2 middot"></div>
+              <div>
+                One post
               </div>
             
-        </ul>
-        <div>
-          <div class="pagination pagination-outline justify-content-end active-color">
-            
-            
-
           </div>
-
+      
           
-              <div class="post-wrapper white-bg post-card">
-  
-  <a href="https://UJedi.github.io/moment/2019-05/moment/">
-    <div class="post-header text-center">
-      <div class="px-4 post-heading">Moment Test</div>
-      <ul class="post-meta li-x mt-1">
+      </ul>
+      <ul>
         
-          <li>Aug 19, 2015</li>
+            
         
+        
+            
+                <li class="post-item no-bullet">
+                    <span class="date">2019.5</span>
+                </li>
+                
+                    <li class="post-item">
     
-        
-          <li class="middot"></li>
-          <li>One minute read</li>
+    <span class="meta"><time datetime='2019-05-08T09:08:27&#43;08:00'>May 8, 2019</time></span>
+    
+    <a href="https://UJedi.github.io/blog/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/"><span>Linux基础操作</span></a>
+</li>
+
+                
+            
         
       </ul>
     </div>
     
-
     
-      The Hitchhiker’s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a “trilogy” of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996. There were also two series of towels, produced by Beer-Davies, that are considered by some fans to be an “official version” of The Hitchhiker’s Guide to the Galaxy, as they include text from the first novel.
-Movie A Hollywood-funded film version, produced and filmed in the UK, was released in April 2005, and radio adaptations of the third, fourth, and fifth novels were broadcast from 2004 to 2005. Adams did many of these adaptations, including the novels, the TV series, the computer game, and the earliest drafts of the Hollywood film’s screenplay, and some of the stage shows introduced new material written by Adams.......
-    
-  </a>
-
-  
-  
-  <div class="post-meta li-x mt-2 div-x">
-    <div>
-      
-        
-          <li><a href="https://UJedi.github.io/categories/test"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> test </a></li>
-        
-      
-      
-    </div>
-   
-    <div>
-      
-    </div>
   </div>
-
-</div>
-
-          
-            
-        </div>
-      </div>
-      
-
-    </div>
-  </main>
+</main> 
 
     
     
@@ -452,11 +483,11 @@ Movie A Hollywood-funded film version, produced and filmed in the UK, was releas
 
 
     
-        <a href="mailto:you@gmail.com"><i class="far fa-envelope-open mr-3" aria-hidden="true"></i></a>
+        <a href="mailto:you@email.com"><i class="far fa-envelope-open mr-3" aria-hidden="true"></i></a>
     
 
     
-        <a href="https://UJedi.github.io/moment/index.xml"><i class="fas fa-rss mr-3" aria-hidden="true"></i></a>
+        <a href="https://UJedi.github.io/categories/tech-earth/index.xml"><i class="fas fa-rss mr-3" aria-hidden="true"></i></a>
     
 
     
@@ -467,7 +498,7 @@ Movie A Hollywood-funded film version, produced and filmed in the UK, was releas
   
   <div class="copyright py-4">
     
-    <span>  Copyright &copy;2019 Regina </span>
+    <span>  Copyright &copy; Regina  </span>
   </div>
   
 

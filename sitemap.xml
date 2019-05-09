@@ -25,6 +25,12 @@
   </url>
   
   <url>
+    <loc>https://UJedi.github.io/categories/earth/</loc>
+    <lastmod>2019-05-08T09:08:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://UJedi.github.io/archive/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</loc>
     <lastmod>2019-05-08T09:08:27+08:00</lastmod>
   </url>
@@ -48,12 +54,6 @@
   </url>
   
   <url>
-    <loc>https://UJedi.github.io/categories/tech-earth/</loc>
-    <lastmod>2019-05-08T09:08:27+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://UJedi.github.io/series/linux/</loc>
     <lastmod>2019-05-08T09:08:27+08:00</lastmod>
     <priority>0</priority>
@@ -62,6 +62,12 @@
   <url>
     <loc>https://UJedi.github.io/tags/linux/</loc>
     <lastmod>2019-05-08T09:08:27+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/categories/drip/</loc>
+    <lastmod>2019-04-27T23:01:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   

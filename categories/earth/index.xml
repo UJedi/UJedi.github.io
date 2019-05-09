@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linux on Regina</title>
-    <link>https://UJedi.github.io/series/linux/</link>
-    <description>Recent content in linux on Regina</description>
+    <title>Earth on Regina</title>
+    <link>https://UJedi.github.io/categories/earth/</link>
+    <description>Recent content in Earth on Regina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Wed, 08 May 2019 09:08:27 +0800</lastBuildDate>
     
-	<atom:link href="https://UJedi.github.io/series/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://UJedi.github.io/categories/earth/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
