@@ -13,11 +13,11 @@
     
     <item>
       <title>Linux基础操作</title>
-      <link>https://UJedi.github.io/blog/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</link>
+      <link>https://UJedi.github.io/archive/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</link>
       <pubDate>Wed, 08 May 2019 09:08:27 +0800</pubDate>
       
-      <guid>https://UJedi.github.io/blog/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</guid>
-      <description>1. 必备命令 类型 相关命令 帮助 &amp;ndash;help, man, which, clear, &amp;gt; , mtools 查看 echo, cat, more, find, grep, | 目录 cd , ls, pwd 安装、登陆 login, shutdown, halt, reboot, install, mount, umount, chsh, exit, last 文件操作 touch, mkdir, rm, rmdir, mv, cp, ln, file, dd, diff 解、压缩 tar, gzip, bzip2, zip, unzip, gunzip, unarj, uuencode, uudecode 系统管理 whoami, df, top, free, quota, at, lp, adduser, groupadd, kill, crontab 系统安全 passwd, su, umask, chgrp, chmod, chomd, chown, chattr, sudo ps, who 网络操作 ifconfig, ip, ping, netstat, telnet, ftp, route, rlogin, rcp, finger, rcp, finger, mail, nslookup</description>
+      <guid>https://UJedi.github.io/archive/2019-05/linux%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C/</guid>
+      <description>1. 必备命令 类型 相关命令 帮助 &amp;ndash;help, man, which, clear, &amp;gt; , mtools 查看 echo, cat, more, find, grep, | 目录 cd , ls, pwd 安装、登陆 login, shutdown, halt, reboot, install, mount, umount, chsh, exit, last 文件操作 touch, mkdir, rm, rmdir, mv, cp, ln, file, dd, diff 解、压缩 tar, gzip, bzip2, zip, unzip, gunzip, unarj, uuencode, uudecode 系统管理 whoami, df, top, free, quota, at, lp, adduser, groupadd, kill, crontab 系统安全 passwd, su, umask, chgrp, chmod, chomd, chown, chattr, sudo ps, who 网络操作 ifconfig, ip, ping, netstat, telnet, ftp, route, rlogin, rcp, finger, rcp, finger, mail, nslookup References [ ] Version Control Version Action Time 1.0 Init 2019-05-08</description>
     </item>
     
   </channel>
