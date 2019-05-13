@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅游 on Regina</title>
+    <link>https://UJedi.github.io/tags/%E6%97%85%E6%B8%B8/</link>
+    <description>Recent content in 旅游 on Regina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Thu, 09 May 2019 18:01:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://UJedi.github.io/tags/%E6%97%85%E6%B8%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日本温泉行 - 箱根 &amp; 东京</title>
+      <link>https://UJedi.github.io/moment/2019-05/t-japan-hakonetokyo/</link>
+      <pubDate>Thu, 09 May 2019 18:01:43 +0800</pubDate>
+      
+      <guid>https://UJedi.github.io/moment/2019-05/t-japan-hakonetokyo/</guid>
+      <description>// TODO 1. 日期 2. 景点 3. 吃住 4. 交通 References Version Control Version Action Time 1.0 Init 2019-05-09</description>
+    </item>
+    
+  </channel>
+</rss>
