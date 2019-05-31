@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>音乐 on Regina</title>
-    <link>https://UJedi.github.io/tags/%E9%9F%B3%E4%B9%90/</link>
-    <description>Recent content in 音乐 on Regina</description>
+    <title>留声机 on Regina</title>
+    <link>https://UJedi.github.io/series/%E7%95%99%E5%A3%B0%E6%9C%BA/</link>
+    <description>Recent content in 留声机 on Regina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zn-Hans</language>
     <lastBuildDate>Thu, 30 May 2019 15:24:15 +0800</lastBuildDate>
     
-	<atom:link href="https://UJedi.github.io/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://UJedi.github.io/series/%E7%95%99%E5%A3%B0%E6%9C%BA/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://UJedi.github.io/moment/2019-05/m-viva-la-vida/</guid>
       <description>I used to rule the world Seas would rise when I gave the world Now in the morning I sleep alone Sweep the street I used to own I used to roll the dice Feel the fear in my enemy&amp;rsquo;s eye Listen as the crowed would say &amp;ldquo;Now the old king is dead! Long live the king!&amp;rdquo; One minute I held the key Next the wall were closed on me And I discovered that my castles stand Upon pillars of salt, pillars of sand I hear Jerusalum bells a-ringing Roman Cavalry choirs are singing Be my mirror my sword and shield My missionaries in a foreign field For some reason I can not explain Once you go there was never, never an honest word That was when I ruled the world It was the wicked and wild wind Blew down the doors to let me in Shattered windows and the sound of drums People could not believe what I&amp;rsquo;d become Revolutionaries wait For my head on a silver plate Just a puppet on a lonely string Oh who would ever want to be king? I hear Jerusalum bells a-ringing Roman Cavalry choirs are singing Be my mirror my sword and</description>
-    </item>
-    
-    <item>
-      <title>Carole &amp; Tuesday</title>
-      <link>https://UJedi.github.io/moment/2019-05/c-caroletuesday/</link>
-      <pubDate>Thu, 09 May 2019 18:01:20 +0800</pubDate>
-      
-      <guid>https://UJedi.github.io/moment/2019-05/c-caroletuesday/</guid>
-      <description>References Version Control Version Action Time 1.0 Init 2019-05-09</description>
     </item>
     
   </channel>
