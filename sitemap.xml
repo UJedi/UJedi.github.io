@@ -3,26 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://UJedi.github.io/categories/</loc>
-    <lastmod>2019-05-30T15:24:15+08:00</lastmod>
+    <loc>https://UJedi.github.io/series/blinkist/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://UJedi.github.io/categories/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/moment/2019-06/r-eat-to-beat-disease/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://UJedi.github.io/</loc>
-    <lastmod>2019-05-30T15:24:15+08:00</lastmod>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://UJedi.github.io/series/</loc>
-    <lastmod>2019-05-30T15:24:15+08:00</lastmod>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://UJedi.github.io/tags/</loc>
-    <lastmod>2019-05-30T15:24:15+08:00</lastmod>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/tags/%E5%81%A5%E5%BA%B7/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/categories/%E6%98%A5%E8%8F%AF%E7%A7%8B%E5%AF%A6/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://UJedi.github.io/tags/%E7%9F%AD%E7%AF%87/</loc>
+    <lastmod>2019-06-06T09:27:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,12 +215,6 @@
   <url>
     <loc>https://UJedi.github.io/moment/2019-05/r-%E7%A4%BE%E7%A7%91-%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE-%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97/</loc>
     <lastmod>2019-05-09T18:00:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://UJedi.github.io/categories/%E6%98%A5%E8%8F%AF%E7%A7%8B%E5%AF%A6/</loc>
-    <lastmod>2019-05-09T18:00:55+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
